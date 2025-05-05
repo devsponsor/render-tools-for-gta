@@ -1,4 +1,5 @@
-### ordinary-render-tools
+#### render-tools-for-gta
+
 #### Disclaimer
 This project was written in 36 hours and still contains a lot of bugs. While some of these bugs may be fixed in future updates, many may remain unresolved.
 
